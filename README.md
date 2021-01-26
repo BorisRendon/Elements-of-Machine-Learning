@@ -1,2 +1,2 @@
-# ElementsML
-Elements of Machine Learning course
+# Machine Learning Models
+Machine Learning Models course
